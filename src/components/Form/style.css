@@ -1,0 +1,50 @@
+.OuterDiv{
+   margin: 3%; 
+}
+
+.mainDiv {
+    border: 1px solid #ccc;
+    margin: auto;
+    width: 60%;
+    padding:2%;
+
+}
+.each_elm {
+    padding: 1%;
+    width: 100%;
+    overflow: hidden;
+}
+.label {
+    float: left;
+    width: 17%;
+}
+.inp_fld {
+    float: left;
+    width: 50%;
+    padding: 6px;
+    border: 1px solid #ccc;
+}
+.inp_vw{
+    float: left;
+    width: 60%;
+    padding: 6px; 
+}
+.buttonOuter{
+    margin: auto;
+    width: 60%;
+    padding:2%;
+}
+.prv{
+    margin-right: 2%
+}
+.nextBtn{
+    color: #fff;
+    background-color: aqua;
+    padding: 2%;
+    border-radius: 5px;
+    border: 1px solid aqua;
+    cursor: pointer;
+}
+#err_id{
+    border:1px solid red;
+}
